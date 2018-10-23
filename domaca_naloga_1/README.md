@@ -42,6 +42,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (22) urskabaskovic
 - (25) ursagabrovec
 - (23) piploli
+- (5) DjansS
 
 ### [Učni list - Deljivost.pdf](https://www.sc-nm.si/sss/si/file/download/860_7c1612944279/U%C4%8Dni%20list%20-%20Deljivost.pdf)
 - (1) KonecVaj
@@ -52,6 +53,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (7) lapajnea
 - (6) maja12345678910
 - (8) piploli
+- (9) DjansS
 
 ### [Učni list - Potence.pdf](https://www.sc-nm.si/sss/si/file/download/857_88cc06344dc2/U%C4%8Dni%20list%20-%20Potence.pdf)
 - (1) KlaraKosec
@@ -62,11 +64,11 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (6) 15minutOdmora
 - (7) maja12345678910
 - (9) DenisBencic
-- (12) TeaKn
 - (11) urskabaskovic
 - (16) ursagabrovec
 - (18) Gorlar
 - (10) piploli
+- (12) DjansS
 
 ### [Učni list - Računanje z izrazi.pdf](https://www.sc-nm.si/sss/si/file/download/851_b391a4d3b88a/U%C4%8Dni%20list%20-%20Ra%C4%8Dunanje%20z%20izrazi.pdf)
 - (1) uporabnisko_ime_1
@@ -79,6 +81,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (15) urskabaskovic
 - (25) mitjamori
 - (7) maja12345678910
+- (8) DjansS
 
 ### Učni list - Racionalna števila.pdf
 - (1) uporabnisko_ime_1
@@ -99,6 +102,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (3) Gorlar
 - (6) DenisBencic
 - (7) lapajnea
+- (4) DjansS
 
 ### [Učni list - Sorazmerja in odstotki.pdf](https://www.sc-nm.si/sss/si/file/download/913_7ff8a8e6774d/U%C4%8Dni%20list%20-%20Sorazmerja%20in%20odstotki.pdf)
 - (1) uporabnisko_ime_1
@@ -106,6 +110,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (3) lapajnea
 - (9) maja12345678910
 - (18) mitjamori
+- (4) DjansS
 
 ### [Učni list - Realna števila.pdf](https://www.sc-nm.si/sss/si/file/download/842_2a4e1f474025/U%C4%8Dni%20list%20-%20Realna%20%C5%A1tevila.pdf)
 - (1) uporabnisko_ime_1
@@ -115,6 +120,7 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (5) lapajnea
 - (8) ZacetekVaj
 - (9) ursagabrovec
+- (6) DjansS
 
 ### [Učni list - Linearna enačba.pdf](https://www.sc-nm.si/sss/si/file/download/833_30de7545a5ce/U%C4%8Dni%20list%20-%20Linearna%20ena%C4%8Dba.pdf)
 - (1) DenisBencic
@@ -125,13 +131,14 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (8) ZacetekVaj
 - (9) urskabaskovic
 - (10) PeterFMF
+- (4) DjansS 
 
 ### [Učni list - Pravokotni koordinatni sistem.pdf](https://www.sc-nm.si/sss/si/file/download/834_5ffe0b5e352d/U%C4%8Dni%20list%20-%20Pravokotni%20koordinatni%20sistem.pdf)
 - (1) uporabnisko_ime_1
 - (2) KlaraKosec
 - (3) lapajnea
-- (11) TeaKn
 - (13) ursagabrovec
+- (5) DjansS
 
 ### [Učni list - Linearna funkcija.pdf](https://www.sc-nm.si/sss/si/file/download/835_a3b1692363f8/U%C4%8Dni%20list%20-%20Linearna%20funkcija.pdf)
 - (1) ZacetekVaj
@@ -141,13 +148,13 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (35) DenisBencic
 - (37) PeterFMF
 - (13) maja12345678910
+- (7) DjansS
 
 ### [Učni list - Sistemi linearnih enačb.pdf](https://www.sc-nm.si/sss/si/file/download/836_975520bdf6aa/U%C4%8Dni%20list%20-%20Sistemi%20linearnih%20ena%C4%8Db.pdf)
 - (1) uporabnisko_ime_1
 - (2) DenisBencic
 - (3) maja12345678910
 - ...
-- (7) TeaKn
 - (8) ZacetekVaj
 
 ### [Učni list - Geometrija.pdf](https://www.sc-nm.si/sss/si/file/download/908_fa3f990d1fc9/U%C4%8Dni%20list%20-%20Geometrija.pdf)
@@ -192,7 +199,6 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (29) PeterFMF
 - (39) urskabaskovic
 - (40) Gorlar
-- (28) TeaKn
 - ...
 
 ### Učni list - Ploščine geometrijskih likov.pdf
@@ -217,7 +223,6 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 ### Učni list - Logaritem - 1.pdf
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
-- (4) TeaKn
 - ...
 - (8) ZacetekVaj
 
@@ -226,7 +231,6 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (2) uporabnisko_ime_2
 - ...
 - (8) ZacetekVaj
-- (10) TeaKn
 - (11) urskabaskovic
 - (12) PeterFMF
 
@@ -234,7 +238,6 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) SmokeyAjax
 - (2) uporabnisko_ime_2
 - (7) mitjamori
-- (8) TeaKn
 - ...
 - (3) piploli
 
@@ -242,7 +245,6 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) SmokeyAjax
 - (2) uporabnisko_ime_2
 - (11) Gorlar
-- (13) TeaKn
 - (20) urskabaskovic
 - (21) petra1111
 
@@ -250,7 +252,6 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) SmokeyAjax
 - (2) uporabnisko_ime_2
 - ...
-- (7) TeaKn
 
 ### Učni list - Racionalna funkcija - 2.pdf
 - (1) SmokeyAjax
@@ -313,7 +314,6 @@ Tako bo izbor nalog zaveden tudi na vašem repozitoriju.
 - (1) uporabnisko_ime_1
 - (2) uporabnisko_ime_2
 - ...
-- (5) TeaKn
 
 ### Učni list - Kompleksna števila.pdf
 - (1) uporabnisko_ime_1
